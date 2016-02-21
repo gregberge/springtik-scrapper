@@ -1,0 +1,16 @@
+{
+  "name": "springtik-scrapper",
+  "version": "0.0.0",
+  "description": "Scrapper used to populate Springtik database.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Springtik/springtik-scrapper.git"
+  },
+  "author": "Bergé Greg <berge.greg@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Springtik/springtik-scrapper/issues"
+  },
+  "homepage": "https://github.com/Springtik/springtik-scrapper#readme"
+}
